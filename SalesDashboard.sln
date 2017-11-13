@@ -1,6 +1,5 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SalesDashboard", "http://localhost:60745", "{CED9DCB0-8514-4767-BDB4-3F064B22F4FE}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
