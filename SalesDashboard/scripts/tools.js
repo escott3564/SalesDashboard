@@ -39,7 +39,7 @@ function SalesDashboard() {
     self.tabletPalette = "salesDashboardPaletteTablet";
     self.mobilePalette = "salesDashboardPaletteMobile";
 
-    self.baseApiUrl = "http://localhost:50053/api/";
+    self.baseApiUrl = "http://salesviewer20171113124246.azurewebsites.net/api";
     self.apiCategory = "";
     self.isPhone = undefined;
     self.showingCategory = "";
