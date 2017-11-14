@@ -1,1 +1,1 @@
-﻿This SalesDashboard mobile app can be used as a stand-alone web application OR as an iPhone/iPad application.  It can be used in every version of iPhone up through iPhone 7 (iOS 8).  
+﻿This SalesDashboard mobile app can be used as a stand-alone web application OR as an Android application.  It can be used in both Android 6 phones and tablets.  
