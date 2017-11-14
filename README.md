@@ -1,20 +1,9 @@
 # Introduction
-This SalesDashboard mobile app can be used as a stand-alone web application OR as an iPhone/iPad application.  It can be used in every version of iPhone up through iPhone 7 (iOS 8).   
+This SalesDashboard mobile app can be used as a stand-alone web application OR as an Android 6 application for both phone and tablets.   
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+1.	In order to access the web version of the Sales Dashboard, go to http://salesdashboard20171113121900.azurewebsites.net/
+2.  I have loaded dummy demo so that you can see the statistics.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
